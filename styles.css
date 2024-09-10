@@ -1,0 +1,147 @@
+.logo 
+{
+	width: 45%;
+}
+.how 
+{
+	margin-left: 70px;
+	display: inline;
+}
+.sh-1 
+{
+	
+	font-size: 18px;
+	text-align: center;
+   
+}
+.con-1 
+{
+	font-size: 25px;
+	 font-weight: bold;
+} 
+.port4>img 
+{
+    padding: 20px;
+    border-radius: 20px;
+}
+.port4  
+{
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+    padding: 15px;
+    margin-left: 35px;
+   height: 300px;
+   width: 90%;
+   border-radius: 20px;
+   font-size: 15px;
+}
+.port4:hover 
+{
+     box-shadow: 2px 2px 2px 2px grey;
+}
+.port4 img:hover {
+    transition: 2s;
+    transform: scale(1.2);
+    border-radius: 20px;
+}
+.titlenew
+{
+	font-size: 20px;
+}
+    .btn-red {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: white; 
+    }
+
+    .btn-red:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
+    }
+  .arrow {
+    padding-left: 80px;
+  }
+  .sh-2
+{
+	
+	font-size: 18px;
+	
+   
+}
+.con-2
+{
+	font-size: 25px;
+	 font-weight: bold;
+} 
+.cont2>img 
+{
+	padding-left: 195px;
+	margin-left: 47px;
+    border-radius: 20px;
+}
+.cont3>img 
+{
+	padding-left: 95px;
+	margin-left: 20px;
+	border-radius: 20px;
+}
+.cont1>img 
+{
+	border-radius: 20px;
+}
+.cont5>img 
+{
+	border-radius: 20px;
+
+}
+.cont5
+{
+	padding-right: 30px;
+}
+
+    .btn1-red {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: white; 
+        width: 100%;
+    }
+
+    .btn1-red:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
+    }
+
+  .new5>img 
+  {
+  	width: 100%;
+  	border-radius: 20px;
+  }
+  .customer 
+  {
+  	font-size: 30px;
+  }
+  .port5>img 
+{
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.port5 
+{
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+    padding: 15px;
+    margin-left: 35px;
+   height: 300px;
+   width: 90%;
+   border-radius: 20px;
+   font-size: 25px;
+}
+.port5:hover 
+{
+     box-shadow: 2px 2px 2px 2px grey;
+}
+.port5 img:hover {
+    transition: 2s;
+    transform: scale(1.1);
+    border-radius: 20px;
+    overflow: hidden;
+}
